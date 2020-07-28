@@ -4,3 +4,4 @@ Archivo para estudio de Git, en Platzi
 Hora: 17:52
 Dia: Julio 28
 Pais: Colombia
+Ciudad: Bogota
