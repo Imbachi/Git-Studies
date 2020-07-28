@@ -1,8 +1,6 @@
 Historia de Nicolas Imbachi 
 
 Archivo para estudio de Git, en Platzi 
-Hora: 17:52
+Hora: 17:37 
 Dia: Julio 28
-Pais: Colombia
-Ciudad: Bogota
-Localidad: Usaquen
+Cambio v2 a HEAD
