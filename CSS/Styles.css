@@ -31,3 +31,12 @@ body {
     font-weight: normal;
     font-size: 0.8em;
 }
+
+#footer {
+    background-color: gray;
+    text-align: right;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: lighter;
+    padding: 0.5cm;
+    color: white;
+}
